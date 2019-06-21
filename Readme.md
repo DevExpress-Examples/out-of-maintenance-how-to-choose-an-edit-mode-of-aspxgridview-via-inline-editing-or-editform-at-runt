@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to choose an edit mode of ASPxGridView via inline editing or EditForm at runtime
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2978/)**
+<!-- run online end -->
 
 
 <p>This example shows how to choose an edit mode of ASPxGridView via inline editing or EditForm at runtime.</p>
